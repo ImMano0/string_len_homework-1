@@ -7,4 +7,5 @@ def main(s1,s2):
     Returns:
         shortest string
     """
-    return
+    return len(s1) len(s2)
+print(main('mironshoh','manu'))
